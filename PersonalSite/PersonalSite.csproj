@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Content Remove="appsettings.Development.json" />
-    <Content Remove="appsettings.json" />
     <Content Remove="wwwroot\assets\css\custom.css" />
     <Content Remove="wwwroot\assets\css\style.css" />
     <Content Remove="wwwroot\assets\img\Andrew.jpg" />
