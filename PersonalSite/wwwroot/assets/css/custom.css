@@ -1,0 +1,95 @@
+/* section#about {
+  
+  background: url("../img/IBRoadNight.JPG") top center;
+  background-size: cover;
+} */
+body {
+  background-image: url("../img/CountryRoad.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+
+}
+
+section#about div.container div.section-title {
+  background-color: rgba(232, 229, 220, .9);
+    padding-left: 10px;
+    
+}
+ section#about div.row {
+  background-color: rgba(232, 229, 220, .9);
+} 
+
+section#resume div.container div.section-title {
+  background-color: rgba(232, 229, 220, .9);
+  padding-left: 10px;
+  
+}
+
+section#portfolio {
+  background-color: rgba(232, 229, 220, .9);
+  padding-left: 10px;
+  
+}
+section#portfolio-details {
+  background-color: rgba(232, 229, 220, .9);
+  padding-left: 10px;
+  
+}
+
+section#services div.container {
+  background-color: rgba(232, 229, 220, .9);
+  padding-left: 10px;
+  
+}
+
+.member .img-fluid {
+  max-width: 100%;
+  height: 350px;
+  text-align: center;
+  box-sizing: border-box;
+  vertical-align: middle;
+  border-style: none;
+  object-fit: fill;
+} 
+
+.member {
+  margin-bottom: 20px;
+  overflow: hidden;
+  text-align: center;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0px 2px 15px rgba(65, 76, 100, .06);
+}
+
+.member .member-info{
+  padding: 25px 15px;
+  text-align: center;
+}
+
+.align-items-stretch {
+  align-items: stretch!important;
+}
+
+.d-flex {
+display: flex!important;
+}
+
+#res {
+  width: 25%;
+  content: center;
+  border-radius: 10px;
+  margin-top: 5em;
+  margin: auto;
+}
+
+#contact {
+  background: url("../img/IBRoadBoard.JPG") top center;
+  background-size: cover;
+}
+
+#contact .section-title{
+  background-color: rgba(323, 229, 220, .7);
+  padding-left: 10px;
+}
