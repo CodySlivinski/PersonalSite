@@ -17,15 +17,21 @@ section#about div.container div.section-title {
     padding-left: 10px;
     
 }
- section#about div.row {
-  background-color: rgba(232, 229, 220, .9);
-} 
+section#about div.row {
+    background-color: rgba(232, 229, 220, .9);
+}
+
+section#badges div.section-title {
+    background-color: rgba(232, 229, 220, .9);
+    padding-left: 10px;
+}
 
 section#resume div.container div.section-title {
   background-color: rgba(232, 229, 220, .9);
   padding-left: 10px;
   
 }
+
 
 section#portfolio {
   background-color: rgba(232, 229, 220, .9);
@@ -93,3 +99,4 @@ display: flex!important;
   background-color: rgba(323, 229, 220, .7);
   padding-left: 10px;
 }
+

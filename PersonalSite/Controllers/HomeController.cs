@@ -33,6 +33,25 @@ namespace PersonalSite.Controllers
             return View();
         }
 
+        public IActionResult ToDo()
+        {
+            return View();
+        }
+        public IActionResult StoreFront()
+        {
+            return View();
+        }
+
+        public IActionResult Admin()
+        {
+            return View();
+        }
+        public IActionResult FinalProject()
+        {
+            return View();
+        }
+
+
         public IActionResult Contact()
         {
             return View();
